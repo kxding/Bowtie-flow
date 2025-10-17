@@ -1,6 +1,8 @@
 # Bowtie-flow: Efficient High-Resolution Video Generation with Prior Preservation
 
 
+https://github.com/user-attachments/assets/cec0d342-5af0-4d05-a623-1f5a33729183
+
 
 **[Kaixin Ding<sup>1 &dagger;</sup>](https://your-link-to-kaixin), 
 [Xi Chen<sup>1</sup>](https://your-link-to-xi-chen), 
@@ -49,16 +51,26 @@ High-resolution video generation is slow: for example, Wan 2.1 takes over 50 min
 
 ### Comparison
 ### 720p Video
-<video width="720" controls>
-  <source src="./comparison/720p.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/9fc3640d-f671-419a-9929-b06d77d8411f
+
 
 ### 1080p Video
-<video width="1080" controls>
-  <source src="./comparison/1080p.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/a50ab7ff-c035-4798-b91c-2dc4e923fc36
+
+### ShowCases
+### 720p Video
+
+
+https://github.com/user-attachments/assets/871729fe-05f6-426d-8e39-504781a2bf10
+
+
+### 1080p Video
+
+
+https://github.com/user-attachments/assets/e93330da-9254-4894-a887-deaa3a4f6054
+
 
 ## Citation
 
