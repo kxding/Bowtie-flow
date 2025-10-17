@@ -33,7 +33,11 @@ High-resolution video generation is slow: for example, Wan 2.1 takes over 50 min
 
 
 
-## ⚙️ Code (Coming soon)
+## ⚙️ Gallery
+
+### Comparison
+- [720p Video](comparison/720p.mp4)
+- [1080p Video](comparison/1080p.mp4)
 
 
 ## Citation
