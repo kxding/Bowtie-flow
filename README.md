@@ -1,9 +1,6 @@
 # Bowtie-flow: Efficient High-Resolution Video Generation with Prior Preservation
 
 
-https://github.com/user-attachments/assets/cec0d342-5af0-4d05-a623-1f5a33729183
-
-
 **[Kaixin Ding<sup>1 &dagger;</sup>](https://your-link-to-kaixin), 
 [Xi Chen<sup>1</sup>](https://your-link-to-xi-chen), 
 [Sihui Ji<sup>1</sup>](https://your-link-to-sihui-ji), 
