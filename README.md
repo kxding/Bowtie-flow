@@ -1,4 +1,4 @@
-# Bowtie-flow: Efficient High-Resolution Video Generation with Prior Preservation
+# SURF: Signature-Retained Fast Video Generation
 
 
 
