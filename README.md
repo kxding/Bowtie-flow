@@ -47,6 +47,14 @@ High-resolution video generation is slow: for example, Wan 2.1 takes over 50 min
 
 ## ⚙️ Gallery
 
+
+https://github.com/user-attachments/assets/f6b0cb15-f78c-4f4b-a841-84e85db2389d
+
+
+https://github.com/user-attachments/assets/b3c397a3-4a05-45cb-8213-0bddabe72606
+
+
+
 ### Comparison
 ### 720p Video
 <video width="720" controls>
@@ -54,11 +62,19 @@ High-resolution video generation is slow: for example, Wan 2.1 takes over 50 min
   Your browser does not support the video tag.
 </video>
 
+
+Uploading 720p_compress.mp4…
+
+
 ### 1080p Video
 <video width="1080" controls>
   <source src="./comparison/1080p.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+Uploading 1080p_compress.mp4…
+
 
 ## Citation
 
