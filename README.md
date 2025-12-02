@@ -51,10 +51,6 @@ High-resolution video generation is slow: for example, Wan 2.1 takes over 50 min
 https://github.com/user-attachments/assets/f6b0cb15-f78c-4f4b-a841-84e85db2389d
 
 
-https://github.com/user-attachments/assets/b3c397a3-4a05-45cb-8213-0bddabe72606
-
-
-
 ### Comparison
 ### 720p Video
 <video width="720" controls>
@@ -63,7 +59,10 @@ https://github.com/user-attachments/assets/b3c397a3-4a05-45cb-8213-0bddabe72606
 </video>
 
 
-Uploading 720p_compress.mp4…
+
+https://github.com/user-attachments/assets/97061000-99ce-4ffc-aaa8-959a207ace95
+
+
 
 
 ### 1080p Video
@@ -73,7 +72,10 @@ Uploading 720p_compress.mp4…
 </video>
 
 
-Uploading 1080p_compress.mp4…
+
+
+https://github.com/user-attachments/assets/3dc9a965-1b97-4776-aaf4-08ce4c2da965
+
 
 
 ## Citation
