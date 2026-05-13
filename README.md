@@ -1,5 +1,7 @@
 # SURF: Signature-Retained Fast Video Generation
 
+**CVPR 2026**
+
 
 
 **[Kaixin Ding<sup>1 &dagger;</sup>](https://your-link-to-kaixin), 
@@ -16,7 +18,7 @@
 <br>
 &dagger;: Intern at Kling Team, KuaishouTechnology, &#9993;: Corresponding Author
 
-<a href='https://kxding.github.io/project/SURF/'><img src='https://img.shields.io/badge/ArXiv-2510.08555-red'></a> 
+<a href='https://arxiv.org/abs/2603.21002'><img src='https://img.shields.io/badge/ArXiv-2603.21002-red'></a> 
 <a href='https://kxding.github.io/project/SURF/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 
@@ -24,7 +26,8 @@
 
 
 ## 📋 News
-- [2025.10.14] Release Arxiv paper.
+- [2026.03] Release arXiv paper.
+- [2026] Accepted to CVPR 2026.
 
 
 ## 📖 Introduction
@@ -81,9 +84,10 @@ https://github.com/user-attachments/assets/3dc9a965-1b97-4776-aaf4-08ce4c2da965
 ## Citation
 
 ```bibtex
- @article{ding2025surf,
-    title={Surf: Signature-Retained Fast Video Generation},
-    author={Kaixin Ding, Xi Chen, Sihui Ji, Yuan Gao, Liang Hou, Xin Tao, Hengshuang Zhao},
-    journal={arXiv preprint arXiv:xxxx.xxxxx},
-    year={2025}
+ @inproceedings{ding2026surf,
+    title={SURF: Signature-Retained Fast Video Generation},
+    author={Kaixin Ding and Xi Chen and Sihui Ji and Yuan Gao and Liang Hou and Xin Tao and Pengfei Wan and Hengshuang Zhao},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2026},
+    url={https://arxiv.org/abs/2603.21002}
 }
