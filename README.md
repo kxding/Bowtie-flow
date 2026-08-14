@@ -84,10 +84,11 @@ https://github.com/user-attachments/assets/3dc9a965-1b97-4776-aaf4-08ce4c2da965
 ## Citation
 
 ```bibtex
- @inproceedings{ding2026surf,
-    title={SURF: Signature-Retained Fast Video Generation},
-    author={Kaixin Ding and Xi Chen and Sihui Ji and Yuan Gao and Liang Hou and Xin Tao and Pengfei Wan and Hengshuang Zhao},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2026},
-    url={https://arxiv.org/abs/2603.21002}
+@inproceedings{ding2026surf,
+  title={SURF: Signature-Retained Fast Video Generation},
+  author={Ding, Kaixin and Chen, Xi and Ji, Sihui and Gao, Yuan and Hou, Liang and Tao, Xin and Zhao, Hengshuang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9171--9181},
+  year={2026}
 }
+```
